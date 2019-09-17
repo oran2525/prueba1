@@ -29,15 +29,26 @@
 	ola
 
 # File marks:
-'0  1  0  /home/orlando2
-'1  1  7  ~/orlando
+'0  1  7  ~/carpeta1/rocio
+'1  1  0  /home/orlando2
+'2  1  7  ~/orlando
 
 # Jumplist (newest first):
+-'  1  7  ~/carpeta1/rocio
+-'  1  0  /home/orlando2
+-'  1  7  ~/orlando
+-'  1  7  ~/orlando
 -'  1  0  /home/orlando2
 -'  1  7  ~/orlando
 -'  1  7  ~/orlando
 
 # History of marks within files (newest to oldest):
+
+> ~/carpeta1/rocio
+	"	1	7
+	^	1	8
+	.	1	8
+	+	1	8
 
 > /home/orlando2
 	"	1	0
