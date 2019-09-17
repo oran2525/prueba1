@@ -9,6 +9,12 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+:p
+:n
+:w
+:q
+:e
+:?
 
 # Search String History (newest to oldest):
 
@@ -19,14 +25,25 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	ola
 
 # File marks:
-'0  1  7  ~/orlando
+'0  1  0  /home/orlando2
+'1  1  7  ~/orlando
 
 # Jumplist (newest first):
+-'  1  0  /home/orlando2
+-'  1  7  ~/orlando
 -'  1  7  ~/orlando
 
 # History of marks within files (newest to oldest):
+
+> /home/orlando2
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/orlando
 	"	1	7
